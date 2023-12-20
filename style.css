@@ -1,0 +1,39 @@
+header{
+  max-width:1200px;
+  
+}
+  
+.foto{
+object-fit: cover;
+object-position: bottom;
+max-height: 350px;
+ 
+}
+.photoline {
+    margin-top: 60px;
+   
+}
+.photoline img{
+    height: 250px;
+    object-fit: cover;
+}
+footer{
+    background-color: rgb(85, 85, 85);
+}
+.menuin{
+    background-color: blue;
+    border:none;
+    width: 100px;
+    height: 100px;
+   border-radius: 50%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   position: sticky;
+   left: 100%;
+   right: 0px;
+   bottom: 0px;
+   top: 10px;
+  
+
+}
